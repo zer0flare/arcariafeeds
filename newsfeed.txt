@@ -1,4 +1,5 @@
-Bienvenidos a Arcadia! Este es un modpack para el Server Arcadia Content Creator Edition.
+Bienvenidos a Arcadia! Este es un modpack para el Server Arcadia 
+Content Creator Edition.
 La version actual de este modpack es v1.00.
 
 Actualizaciones regulares se haran a este modpack y al modpack del server normal.
