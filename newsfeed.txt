@@ -1,14 +1,14 @@
 Welcome to Arcadia! This is a modpack for the Server Arcadia Survival SMP.
-Modpack Version 0.70 (BETA)
+Modpack Version 0.78 (BETA)
 
-Important updates and other news will be here at the main menu regularly.
-Updates and news will also be posted in our Discord Server.
+The Discord Button on the main menu now works, use it and join our growing
+community!
 
 Enjoy!
 
-Bienvenido a Arcadia! Este es el modpack para el Sever Arcadia Survival SMP.
+Bienvenido! Este es el modpack para el Server Arcadia Survival SMP.
 
-Noticias importantes y actualizaciones seran posteadas aqui.
-Tambien seran posteados en nuestro servidor de Discord.
+El boton de Discord en el menu ya funciona! usalo para unirte a nuestra
+comunidad!
 
 ¡Diviertete!
